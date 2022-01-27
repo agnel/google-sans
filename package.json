@@ -1,0 +1,28 @@
+{
+  "name": "google-sans",
+  "version": "0.0.1",
+  "description": "Self-host the Google Sans font in a neatly bundled NPM package",
+  "main": "index.css",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "keywords": [
+    "google",
+    "sans",
+    "google sans",
+    "font",
+    "font family",
+    "google font"
+  ],
+  "author": {
+    "email": "agnelwaghela@gmail.com",
+    "name": "Agnel Waghela",
+    "url": "https://github.com/agnel"
+  },
+  "homepage": "https://github.com/agnel/google-sans/tree/master#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agnel/google-sans.git"
+  },
+  "license": ""
+}
