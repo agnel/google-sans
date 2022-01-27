@@ -1,0 +1,8 @@
+/* armenian */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/armenian-700-normal.woff2') format('woff2');
+  unicode-range: U+0308, U+0530-058F, U+2010, U+25CC, U+FB13-FB17;
+}
