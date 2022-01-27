@@ -1,0 +1,8 @@
+/* gurmukhi */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url('./files/gurmukhi-700-italic.woff2') format('woff2');
+  unicode-range: U+0964-0965, U+0A01-0A75, U+200C-200D, U+20B9, U+25CC, U+262C, U+A830-A839;
+}
