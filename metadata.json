@@ -1,0 +1,29 @@
+{
+  "fontId": "google-sans",
+  "fontName": "Google Sans",
+  "subsets": [
+    "armenian",
+    "cyrillic",
+    "devanagari",
+    "georgian",
+    "greek",
+    "gurmukhi",
+    "hebrew",
+    "lao",
+    "latin",
+    "latin-ext",
+    "tamil",
+    "thai",
+    "vietnamese"
+  ],
+  "weights": [400, 500, 700],
+  "styles": ["italic", "normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2022-01-27",
+  "version": "v41",
+  "category": "sans",
+  "source": "https://fonts.google.com/",
+  "license": "https://fonts.google.com/license/googlerestricted",
+  "type": "google"
+}
