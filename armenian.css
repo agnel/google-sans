@@ -1,0 +1,48 @@
+/* armenian-400-italic */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: italic;
+  font-weight: 400;
+  src: url('./files/armenian-400-italic.woff2') format('woff2');
+  unicode-range: U+0308, U+0530-058F, U+2010, U+25CC, U+FB13-FB17;
+}
+/* armenian-400 */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./files/armenian-400-normal.woff2') format('woff2');
+  unicode-range: U+0308, U+0530-058F, U+2010, U+25CC, U+FB13-FB17;
+}
+/* armenian-500-italic */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: italic;
+  font-weight: 500;
+  src: url('./files/armenian-500-italic.woff2') format('woff2');
+  unicode-range: U+0308, U+0530-058F, U+2010, U+25CC, U+FB13-FB17;
+}
+/* armenian-500 */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./files/armenian-500-normal.woff2') format('woff2');
+  unicode-range: U+0308, U+0530-058F, U+2010, U+25CC, U+FB13-FB17;
+}
+/* armenian-700-italic */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: italic;
+  font-weight: 700;
+  src: url('./files/armenian-700-italic.woff2') format('woff2');
+  unicode-range: U+0308, U+0530-058F, U+2010, U+25CC, U+FB13-FB17;
+}
+/* armenian-700 */
+@font-face {
+  font-family: 'Google Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./files/armenian-700-normal.woff2') format('woff2');
+  unicode-range: U+0308, U+0530-058F, U+2010, U+25CC, U+FB13-FB17;
+}
